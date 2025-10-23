@@ -7,7 +7,7 @@
 Transformação de um modelo **relacional de vendas** em um **modelo dimensional (Star Schema)**, com tabelas fato e dimensão criadas a partir de entidades como Cliente, Produto, Categoria e Vendedor.  
 Utiliza diagramas desenvolvidos no **SQLDBM**.
 
-📂 [Acessar pasta do projeto](./desafio 3/modelo_vendas)
+📂 [Acessar pasta do projeto](./modelo_vendas)
 
 ---
 
